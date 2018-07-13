@@ -1,10 +1,3 @@
-Code of movie-ticket-and-service-website.
-
-For developers: 
-* 请在 `How to Run All` 为用户尽可能详细地描述运行流程。（相当于写部署说明/安装手册/用户手册）。
-* 请在`Implementation`尽可能详细地描述实现内容及方法。
-* 请在`Reference`记录参考资料。
-
 # How to Run All
 1. Download `movie-ticket-and-service-website` repository.
 2. Download and config MySQL Server. For example, you can refer to [MySQL5.7.11 免安装版配置（WIN 64bit）](http://blog.csdn.net/zhangmingbao2016/article/details/51035214) for Windows system. Now you should have successfully started sql by using command `net start MySQL` in cmd (better to run as administrator>.
